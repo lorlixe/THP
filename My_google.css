@@ -1,0 +1,34 @@
+#conteneur
+{
+    display: flex;
+    justify-content: flex-end;
+}
+
+#image
+{
+	display: flex;
+	flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+/*.recherche:nth-child(1) /* On prend le deuxième bloc élément 
+{
+    background-color: blue;
+}*/
+
+
+#recherche
+{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+footer
+{
+	display: flex;
+   align-items: flex-end;
+}
